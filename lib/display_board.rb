@@ -1,11 +1,13 @@
-
+def draw_cell
+  puts "   |   |   "
+end
+def draw_line
+  puts "-----------"
+end
 
 def display_board
-  puts "
-     |   |
-  -----------
-     |   |
-  -----------
-     |   |
-  "
+  draw_cell
+  draw_line
+  draw_cell
+  draw_line
 end
