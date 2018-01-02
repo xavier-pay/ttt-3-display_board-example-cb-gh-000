@@ -6,8 +6,8 @@ def draw_line
 end
 
 def display_board
+  draw_cell
   draw_line
-  
-  draw_line
+  draw_cell
   draw_line
 end
