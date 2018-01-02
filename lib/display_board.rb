@@ -1,5 +1,5 @@
 def draw_cell
-  puts "   "+|+"   "+|+"   "+|
+  puts "   "+"|"+"   "+"|"+"   "
 end
 def draw_line
   puts "-----------"
