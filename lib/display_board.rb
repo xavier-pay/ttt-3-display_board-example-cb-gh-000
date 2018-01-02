@@ -10,4 +10,5 @@ def display_board
   draw_line
   draw_cell
   draw_line
+  draw_cell
 end
